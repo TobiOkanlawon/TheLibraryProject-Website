@@ -1,6 +1,6 @@
 +++
 date = '2025-10-07T21:08:05+01:00'
-draft = true
+draft = false
 title = 'The Manifesto'
 toc = true
 tocBorder = true
