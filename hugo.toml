@@ -1,0 +1,7 @@
+baseURL = 'https://www.thelibraryproject.ng/'
+languageCode = 'en-us'
+title = 'The Library Project'
+theme = 'nostyleplease'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
